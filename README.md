@@ -68,9 +68,16 @@ I'm a passionate Computer Science student at **American International University
 
 <div align="center">
 
+# 🏆 Competitive Programming Profiles
+
 | Platform | Username | Profile |
 |----------|----------|---------|
 | **Codeforces** | [Sazzad_Khan](https://codeforces.com/profile/Sazzad_Khan) | [![Codeforces](https://img.shields.io/badge/Codeforces-View_Profile-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan) |
+| **LeetCode** | [YourLeetCodeUsername](https://leetcode.com/u/YourLeetCodeUsername/) | [![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/YourLeetCodeUsername/) |
+| **CodeChef** | [YourCodeChefUsername](https://www.codechef.com/users/YourCodeChefUsername) | [![CodeChef](https://img.shields.io/badge/CodeChef-View_Profile-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/YourCodeChefUsername) |
+| **HackerRank** | [YourHackerRankUsername](https://www.hackerrank.com/profile/YourHackerRankUsername) | [![HackerRank](https://img.shields.io/badge/HackerRank-View_Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/YourHackerRankUsername) |
+| **CSES** | [YourCSESUsername](https://cses.fi/user/YourCSESUsername) | [![CSES](https://img.shields.io/badge/CSES-View_Profile-blue?style=for-the-badge&logo=cses)](https://cses.fi/user/YourCSESUsername) |
+| **AtCoder** | [YourAtCoderUsername](https://atcoder.jp/users/YourAtCoderUsername) | [![AtCoder](https://img.shields.io/badge/AtCoder-View_Profile-lightgrey?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/YourAtCoderUsername) |
 
 
 </div>
