@@ -61,8 +61,12 @@ I'm a passionate Computer Science student at **American International University
 
 <div align="center">
 
-<!-- Codeforces Stats Card -->
-![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=Sazzad_Khan&theme=default)
+<div align="center">
+
+<!-- This uses a custom API that excludes friends and contributions -->
+![Animated Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sazzad_Khan&theme=algolia&hide=contributions,friends)
+
+</div>
 
 </div>
 
