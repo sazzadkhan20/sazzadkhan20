@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm [Your Name] 
+# 👨‍💻 Hi, I'm Md Sazzad Khan
 
-### Competitive Programmer | Full Stack Developer | CS Student
+### Competitive Programmer | Full Stack Developer | CS Student @ AIUB
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyourusername&logo=leetcode&logoColor=yellow)](https://leetcode.com/yourusername/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Your%20Rating-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/yourusername)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyourusername&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/4Qz2ymQy19/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Your%20Rating-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan)
 
 </div>
 
@@ -64,16 +64,15 @@ I'm a passionate Computer Science student at **American International University
 </div>
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SazzadHossainKhan&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SazzadHossainKhan&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SazzadHossainKhan&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
 
 </div>
 
@@ -85,7 +84,7 @@ I'm a passionate Computer Science student at **American International University
 - 🌱 I'm learning **Advanced System Design & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Competitive Programming, Web Development, or Algorithms**
-- 📫 How to reach me: **sazzad@example.com**
+- 📫 How to reach me: **sazzad53913@example.com**
 
 ---
 
@@ -93,9 +92,9 @@ I'm a passionate Computer Science student at **American International University
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sazzadhossainkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sazzad-khan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sazzad-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzad@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzad53913@example.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sazzad_Khan)
 
 </div>
@@ -114,8 +113,11 @@ I'm a passionate Computer Science student at **American International University
 </div>
 
 ## 📊 Activity Graph
-
+<div align="center">
+   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SazzadHossainKhan&theme=github)
+
+</div>
 
 ---
 
