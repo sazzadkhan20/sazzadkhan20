@@ -4,8 +4,8 @@
 
 ### Competitive Programmer | Full Stack Developer | CS Student @ AIUB
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyourusername&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/4Qz2ymQy19/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Your%20Rating-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FMdSazzadKhan&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/4Qz2ymQy19/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Your%201100+-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan)
 
 </div>
 
