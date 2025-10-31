@@ -65,7 +65,7 @@ I'm a passionate Computer Science student at **American International University
 ![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=Sazzad_Khan&theme=default)
 
 <!-- Codeforces Stats -->
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=Sazzad_Khan&theme=default)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=Sazzad_Khan&theme=black)
 
 </div>
 
