@@ -1,14 +1,13 @@
-                                 # 👨‍💻 Hi, I'm Sazzad Khan
-
-### Competitive Programmer | Full Stack Developer | CS Student @ AIUB
-
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Sazzad__Khan-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan)
+# 👨‍💻 Hi, I'm [Your Name] 
+
+### Competitive Programmer | Full Stack Developer | CS Student
+
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyourusername&logo=leetcode&logoColor=yellow)](https://leetcode.com/yourusername/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Your%20Rating-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/yourusername)
 
 </div>
-
----
 
 ## 🚀 About Me
 
