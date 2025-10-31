@@ -68,11 +68,11 @@ I'm a passionate Computer Science student at **American International University
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazzadkhan20&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadkhan20&layout=compact&theme=radical&hide_border=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sazzadkhan20&theme=radical&hide_border=true)
 
 </div>
 
@@ -94,7 +94,7 @@ I'm a passionate Computer Science student at **American International University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sazzad-khan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sazzad-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzad53913@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzad53913@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sazzad_Khan)
 
 </div>
@@ -125,27 +125,6 @@ I'm a passionate Computer Science student at **American International University
 
 ### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
-⭐️ From [Sazzad Hossain Khan](https://github.com/sazzadkhan20)
+⭐️ From [Sazzad Khan](https://github.com/sazzadkhan20)
 
 </div>
-
-## 🔧 Note for Setup
-
-To make this README fully functional:
-
-1. **Replace placeholders**:
-   - Update email: `sazzad@example.com`
-   - Update portfolio URL: `https://sazzad-portfolio.com`
-   - Update LinkedIn: `https://linkedin.com/in/sazzadkhan20`
-
-2. **Ensure your GitHub username** is `sazzadkhan20` or update all instances
-
-3. **The Codeforces integration** will automatically fetch your live statistics from:
-   - Profile: https://codeforces.com/profile/Sazzad_Khan
-
-4. **The badges and statistics** will update automatically as you:
-   - Push code to GitHub
-   - Participate in Codeforces contests
-   - Solve more problems
-
-The README now perfectly matches your specified skills and integrates live Codeforces data from your profile!
