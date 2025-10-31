@@ -115,9 +115,6 @@ I'm a passionate Computer Science student at **American International University
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sazzad-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sazzad53913@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sazzad_Khan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/4Qz2ymQy19/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mdsazzadkhan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Md_Sazzad_Khan)
 
 </div>
 
