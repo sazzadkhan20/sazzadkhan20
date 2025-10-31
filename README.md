@@ -137,13 +137,6 @@ I'm a passionate Computer Science student at **American International University
 
 </div>
 
-## 📊 Activity Graph
-<div align="center">
-   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sazzadkhan20&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
