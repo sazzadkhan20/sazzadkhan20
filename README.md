@@ -68,7 +68,7 @@ I'm a passionate Computer Science student at **American International University
 
 <div align="center">
 
-*Competitive Programming Profiles*
+### Competitive Programming Profiles
 
 | Platform | Username | Profile |
 |----------|----------|---------|
