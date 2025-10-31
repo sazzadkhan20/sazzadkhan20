@@ -108,14 +108,14 @@ I'm a passionate Computer Science student at **American International University
 
 **Thanks for visiting my profile!** 🚀
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SazzadHossainKhan&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=sazzadkhan20&color=blueviolet)
 
 </div>
 
 ## 📊 Activity Graph
 <div align="center">
    
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SazzadHossainKhan&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sazzadkhan20&theme=github)
 
 </div>
 
@@ -125,7 +125,7 @@ I'm a passionate Computer Science student at **American International University
 
 ### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
-⭐️ From [Sazzad Hossain Khan](https://github.com/SazzadHossainKhan)
+⭐️ From [Sazzad Hossain Khan](https://github.com/sazzadkhan20)
 
 </div>
 
@@ -136,9 +136,9 @@ To make this README fully functional:
 1. **Replace placeholders**:
    - Update email: `sazzad@example.com`
    - Update portfolio URL: `https://sazzad-portfolio.com`
-   - Update LinkedIn: `https://linkedin.com/in/sazzadhossainkhan`
+   - Update LinkedIn: `https://linkedin.com/in/sazzadkhan20`
 
-2. **Ensure your GitHub username** is `SazzadHossainKhan` or update all instances
+2. **Ensure your GitHub username** is `sazzadkhan20` or update all instances
 
 3. **The Codeforces integration** will automatically fetch your live statistics from:
    - Profile: https://codeforces.com/profile/Sazzad_Khan
