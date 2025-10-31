@@ -4,7 +4,7 @@
 
 ### Competitive Programmer | Full Stack Developer | CS Student @ AIUB
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved-70+&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2FMdpi%2F%2FSazzadKhan&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/4Qz2ymQy19/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=green&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fpi%2F%2F70+&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/4Qz2ymQy19/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Rating%201100+-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan)
 
 </div>
