@@ -57,15 +57,12 @@ I'm a passionate Computer Science student at **American International University
 
 ---
 
-## 🏆 Codeforces Statistics
+## 🏆 Competitive Programming Statistics
 
 <div align="center">
 
 <!-- Codeforces Stats Card -->
 ![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/card?username=Sazzad_Khan&theme=default)
-
-<!-- Codeforces Stats -->
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=Sazzad_Khan&theme=black)
 
 </div>
 
@@ -74,6 +71,7 @@ I'm a passionate Computer Science student at **American International University
 | Platform | Username | Profile |
 |----------|----------|---------|
 | **Codeforces** | [Sazzad_Khan](https://codeforces.com/profile/Sazzad_Khan) | [![Codeforces](https://img.shields.io/badge/Codeforces-View_Profile-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Sazzad_Khan) |
+
 
 </div>
 
