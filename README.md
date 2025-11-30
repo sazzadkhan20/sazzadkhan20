@@ -10,7 +10,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate Computer Science student at **American International University Bangladesh (AIUB)** who loves solving complex problems and building innovative web applications. My journey involves:
 
