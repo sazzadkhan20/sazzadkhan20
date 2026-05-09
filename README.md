@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hey, I'm Sazzad Khan
+# 👨‍💻 Hello World! I'm Sazzad
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
