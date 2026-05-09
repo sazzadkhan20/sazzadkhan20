@@ -1,6 +1,9 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /> Hello World! I'm Sazzad
+<h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" style="vertical-align: middle;" />
+Hello World! I'm Sazzad
+</h1>
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
@@ -16,7 +19,10 @@ Building scalable backend systems, intelligent applications, and modern AI-power
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="32" align="center" /> &nbsp;About Me
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="30" style="vertical-align: middle;" />
+About Me
+</h2>
 
 ```yaml
 Focus:
@@ -41,7 +47,10 @@ Interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" align="center" /> &nbsp;Tech Stack
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" style="vertical-align: middle;" />
+Tech Stack
+</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
@@ -63,7 +72,10 @@ Interests:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" align="center" /> &nbsp;Competitive Programming
+<h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" style="vertical-align: middle;" />
+Competitive Programming
+</h2>
 
 <div align="center">
 
@@ -75,6 +87,6 @@ Interests:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="38" align="center" /> &nbsp;<h3>"First, solve the problem. Then, write the code."</h3>
+### 💡 "First, solve the problem. Then, write the code."
 
 </div>
