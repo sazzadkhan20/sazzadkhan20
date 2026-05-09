@@ -79,8 +79,6 @@ Interests:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sazzadkhan20\&show_icons=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazzadkhan20\&layout=compact\&theme=radical\&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sazzadkhan20\&theme=radical\&hide_border=true)
 
 </div>
