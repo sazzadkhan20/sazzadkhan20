@@ -42,15 +42,15 @@ Interests:
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="50" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" title="ASP.NET" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="50" title="React" />&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="50" title="TypeScript" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" title="Tailwind CSS" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="50" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" height="50" title="Spring Boot" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" title="ASP.NET" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="50" title="PostgreSQL" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL" />&nbsp;
