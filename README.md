@@ -27,6 +27,9 @@ Focus:
   - Distributed Systems
 
 Currently Working On:
+  - ERP Automation Software — designing and building modular, enterprise-grade
+    ERP systems with intelligent workflow automation, role-based access control,
+    real-time reporting, and seamless third-party integrations
   - AI-powered enterprise solutions
   - Intelligent workflow automation
   - API traffic optimization & system scalability
@@ -44,33 +47,50 @@ Interests:
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" title="C" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" title="C++" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" title="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" title="C#" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
 ### Backend & Infrastructure
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="ASP.NET" title="ASP.NET" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mssql" height="45" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=oracle" height="45" alt="Oracle" title="Oracle" />
+</p>
+
+### AI & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch / AI" title="AI/LLM" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" title="Linux" />
+</p>
 
 ---
 
@@ -101,6 +121,7 @@ Interests:
 # 🎯 Current Focus
 
 * 🔭 Building scalable enterprise applications & AI-integrated systems
+* 🏗️ Developing ERP automation software with modular architecture and intelligent process automation
 * 🌱 Exploring RAG pipelines, distributed systems, and advanced system design
 * ⚡ Optimizing API performance, scalability, and backend architecture
 * 🤝 Open to collaborating on impactful AI and backend engineering projects
@@ -122,7 +143,7 @@ Interests:
 
 <div align="center">
 
-### 💡 “First, solve the problem. Then, write the code.”
+### 💡 "First, solve the problem. Then, write the code."
 
 ⭐ From [Sazzad Khan](https://github.com/sazzadkhan20)
 
