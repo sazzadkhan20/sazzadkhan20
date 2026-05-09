@@ -27,9 +27,7 @@ Focus:
   - Distributed Systems
 
 Currently Working On:
-  - ERP Automation Software — designing and building modular, enterprise-grade
-    ERP systems with intelligent workflow automation, role-based access control,
-    real-time reporting, and seamless third-party integrations
+  - ERP Automation Software
   - AI-powered enterprise solutions
   - Intelligent workflow automation
   - API traffic optimization & system scalability
