@@ -73,16 +73,6 @@ Interests:
 
 ---
 
-# 🎯 Current Focus
-
-* 🔭 Building scalable enterprise applications & AI-integrated systems
-* 🏗️ Developing ERP automation software with modular architecture and intelligent process automation
-* 🌱 Exploring RAG pipelines, distributed systems, and advanced system design
-* ⚡ Optimizing API performance, scalability, and backend architecture
-* 🤝 Open to collaborating on impactful AI and backend engineering projects
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
