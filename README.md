@@ -12,11 +12,12 @@
 
 ##  About Me
 
-I'm a passionate Computer Science student at **American International University Bangladesh (AIUB)** who loves solving complex problems and building innovative web applications. My journey involves:
+I’m a Software Engineer passionate about building scalable systems, intelligent applications, and modern backend solutions.
 
-- 🏆 **Competitive Programming**: Regularly participating in coding contests and solving algorithmic challenges
-- 🌐 **Full Stack Development**: Creating end-to-end web applications with modern technologies
-- 📚 **Continuous Learning**: Always exploring new technologies and improving my skills
+🚀 Focus Areas: AI/ML integration, RAG systems, scalable APIs, and distributed application architecture
+💻 Development: Full-stack and backend development using modern frameworks and enterprise technologies
+🏆 Problem Solving: Competitive programming background with a strong interest in algorithms and system optimization
+📚 Continuous Learning: Exploring modern AI frameworks, performance engineering, and scalable software design
 
 ---
 
