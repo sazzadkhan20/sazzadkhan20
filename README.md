@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" valign="middle" />
-&nbsp;Hello World! I'm Sazzad
-</h1>
+<table border="0" align="center"><tr><td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /></td><td><h1>Hello World! I'm Sazzad</h1></td></tr></table>
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
@@ -17,7 +14,7 @@
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="30" valign="middle" />&nbsp; About Me</h2>
+<table border="0"><tr><td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="35" /></td><td valign="middle"><h2>About Me</h2></td></tr></table>
 
 ```yaml
 Focus:
@@ -42,7 +39,7 @@ Interests:
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" valign="middle" />&nbsp; Tech Stack</h2>
+<table border="0"><tr><td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /></td><td valign="middle"><h2>Tech Stack</h2></td></tr></table>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
@@ -64,7 +61,7 @@ Interests:
 
 ---
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" valign="middle" />&nbsp; Competitive Programming</h2>
+<table border="0"><tr><td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /></td><td valign="middle"><h2>Competitive Programming</h2></td></tr></table>
 
 <div align="center">
 
