@@ -14,9 +14,9 @@
 
 I’m a Software Engineer passionate about building scalable systems, intelligent applications, and modern backend solutions.
 
-🚀 Focus Areas: AI/ML integration, RAG systems, scalable APIs, and distributed application architecture
-💻 Development: Full-stack and backend development using modern frameworks and enterprise technologies
-🏆 Problem Solving: Competitive programming background with a strong interest in algorithms and system optimization
+🚀 Focus Areas: AI/ML integration, RAG systems, scalable APIs, and distributed application architecture <br/>
+💻 Development: Full-stack and backend development using modern frameworks and enterprise technologies <br/>
+🏆 Problem Solving: Competitive programming background with a strong interest in algorithms and system optimization <br/>
 📚 Continuous Learning: Exploring modern AI frameworks, performance engineering, and scalable software design
 
 ---
