@@ -45,51 +45,22 @@ Interests:
 
 # 🛠️ Tech Stack
 
-### Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" title="C" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" title="C++" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" title="C#" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
-</p>
-
-### Backend & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="ASP.NET" title="ASP.NET" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mssql" height="45" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=oracle" height="45" alt="Oracle" title="Oracle" />
-</p>
-
-### AI & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch / AI" title="AI/LLM" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="50" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="50" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" title="Tailwind CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="50" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="50" title="Spring Boot" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" title="ASP.NET" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" title="AI / LLM" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux" />
 </p>
 
 ---
