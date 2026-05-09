@@ -1,6 +1,6 @@
 <div align="center">
 
-<table border="0" align="center"><tr><td align="center" valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /></td><td><h1>Hello World! I'm Sazzad</h1></td></tr></table>
+# 👋 Hello World! I'm Sazzad
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
@@ -14,7 +14,7 @@
 
 ---
 
-<table border="0"><tr><td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="35" /></td><td valign="middle"><h2>About Me</h2></td></tr></table>
+## 📖 About Me
 
 ```yaml
 Focus:
@@ -39,7 +39,7 @@ Interests:
 
 ---
 
-<table border="0"><tr><td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /></td><td valign="middle"><h2>Tech Stack</h2></td></tr></table>
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
@@ -61,7 +61,7 @@ Interests:
 
 ---
 
-<table border="0"><tr><td valign="middle"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /></td><td valign="middle"><h2>Competitive Programming</h2></td></tr></table>
+## 🏆 Competitive Programming
 
 <div align="center">
 
