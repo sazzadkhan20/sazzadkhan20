@@ -73,19 +73,6 @@ Interests:
 
 ---
 
-# 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-sazzad-khan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://mdsazzad-khan.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sazzad53913@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Sazzad_Khan)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "First, solve the problem. Then, write the code."
