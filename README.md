@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hello World! I'm Sazzad
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hello World! I'm Sazzad
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
@@ -16,7 +16,7 @@ Building scalable backend systems, intelligent applications, and modern AI-power
 
 ---
 
-# 🚀 About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> About Me
 
 ```yaml
 Focus:
@@ -41,7 +41,7 @@ Interests:
 
 ---
 
-# 🛠️ Tech Stack
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
@@ -63,7 +63,7 @@ Interests:
 
 ---
 
-# 🏆 Competitive Programming
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> Competitive Programming
 
 <div align="center">
 
@@ -75,6 +75,6 @@ Interests:
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code."
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" /> *"First, solve the problem. Then, write the code."*
 
 </div>
