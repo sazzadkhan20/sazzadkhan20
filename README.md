@@ -77,6 +77,4 @@ Interests:
 
 ### 💡 "First, solve the problem. Then, write the code."
 
-⭐ From [Sazzad Khan](https://github.com/sazzadkhan20)
-
 </div>
