@@ -1,15 +1,13 @@
 <div align="center">
 
 <h1>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" style="vertical-align: middle;" />
-Hello World! I'm Sazzad
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" valign="middle" />
+&nbsp;Hello World! I'm Sazzad
 </h1>
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
-<p>
-Building scalable backend systems, intelligent applications, and modern AI-powered software solutions.
-</p>
+<p>Building scalable backend systems, intelligent applications, and modern AI-powered software solutions.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/sazzadkhan20?style=social)](https://github.com/sazzadkhan20?tab=followers)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat\&labelColor=black\&color=green\&label=Solved\&query=solved\&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F4Qz2ymQy19\&logo=leetcode\&logoColor=yellow)](https://leetcode.com/u/4Qz2ymQy19/)
@@ -19,10 +17,7 @@ Building scalable backend systems, intelligent applications, and modern AI-power
 
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="30" style="vertical-align: middle;" />
-About Me
-</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="30" valign="middle" />&nbsp; About Me</h2>
 
 ```yaml
 Focus:
@@ -47,10 +42,7 @@ Interests:
 
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" style="vertical-align: middle;" />
-Tech Stack
-</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" valign="middle" />&nbsp; Tech Stack</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" title="Next.js" />&nbsp;
@@ -72,10 +64,7 @@ Tech Stack
 
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" style="vertical-align: middle;" />
-Competitive Programming
-</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" valign="middle" />&nbsp; Competitive Programming</h2>
 
 <div align="center">
 
