@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />&nbsp;<h1>Hello World! I'm Sazzad</h1>
-</div>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" />&nbsp;Hello World! I'm Sazzad</h1>
 
 ### Software Engineer • AI & RAG Enthusiast • Competitive Programmer
 
